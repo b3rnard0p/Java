@@ -1,6 +1,0 @@
-João,20
-Maria,22
-Pedro,19
-João,20
-Maria,22
-Pedro,19
