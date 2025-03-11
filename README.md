@@ -1,4 +1,4 @@
-**Neste Repositório demonstro meus etudos e projetos em Java**
+**Neste Repositório demonstro meus estudos e projetos em Java**
 
 ---
 
