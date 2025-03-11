@@ -1,4 +1,6 @@
-**Java: Uma das Linguagens de Programação Mais Influentes**
+**Neste Repositório demonstro meus etudos e projetos em Java**
+
+---
 
 ### História do Java
 
