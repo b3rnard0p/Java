@@ -7,3 +7,30 @@ Tecnologias utilizadas
 -Java 22
 -Java Swing
 -MySql
+
+estrutura do prjeto
+Projeto/
+|---src/
+|    |---DAO/
+|    |    |---EmprestimoDAO.java
+|    |    |---HistoricoDAO.java
+|    |    |---ItemDAO.java
+|    |    |---UsuarioDAO.java
+|    |---beans/
+|    |    |---Emprestimo.java
+|    |    |---Historico.java
+|    |    |---Item.java
+|    |    |---Usuario.java
+|    |    |---View_HistoricoEmprestimo.java
+|    |---conexao/
+|    |    |---Conexao.java
+|    |---interfaces/
+|    |    |---CadastroItens.form
+|    |    |---Cadastro
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
