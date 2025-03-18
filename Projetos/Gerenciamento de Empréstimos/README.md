@@ -1,4 +1,4 @@
-# 🛠️ Sistema de Controle de Itens para Universidades e Escolas
+# 🛠️ Sistema de Controle de Itens para Universidades e Escolas co **Java Swing**
 
 ---
 
