@@ -1,16 +1,22 @@
-🛠️ Sistema de Controle de Itens para Universidades e Escolas
+# 🛠️ Sistema de Controle de Itens para Universidades e Escolas
 
-📌 Sobre o Projeto
+---
+
+## 📌 Sobre o Projeto
 Este projeto é um sistema desktop de gerenciamento de itens para instituições de ensino, como universidades e escolas. Ele permite o controle de empréstimos e devoluções de itens essenciais, tais como ar-condicionado, chaves de sala e canetões. O sistema possui uma interface gráfica amigável feita com Java Swing e realiza operações em um banco de dados MySQL.
 
-🚀 Tecnologias Utilizadas
+---
+
+## 🚀 Tecnologias Utilizadas
 - Java 22
 - Java Swing
 - MySQL
 - JDBC (MySQL Connector)
 - Apache Ant (opcional)
 
-📂 Estrutura do Projeto
+---
+
+## 📂 Estrutura do Projeto
 SistemaControleItens/
 │── src/
 │   ├── DAO/
@@ -38,26 +44,30 @@ SistemaControleItens/
 │── manifest.mf
 │── mysql-connector-j-8.1.0.jar
 
-🔧 Configuração e Instalação
+---
 
-1️⃣ Clonar o repositório  
-```bash
+## 🔧 Configuração e Instalação
+
+**1️⃣ Clonar o repositório**  
 git clone https://github.com/seu-usuario/SistemaControleItens.git  
 cd SistemaControleItens
-2️⃣ Configurar o MySQL Connector
+
+**2️⃣ Configurar o MySQL Connector**
 O arquivo mysql-connector-j-8.1.0.jar já está incluído na pasta do projeto.
 Na sua IDE (ex: NetBeans):
-
 Clique com o botão direito em Libraries.
 Selecione Add JAR/Folder e adicione o mysql-connector-j-8.1.0.jar.
-3️⃣ Configurar o Banco de Dados
+
+**3️⃣ Configurar o Banco de Dados**
 Crie um banco de dados no MySQL com as tabelas necessárias, como Emprestimos, Usuarios, Itens e Historico.
 No arquivo src/conexao/Conexao.java, configure as credenciais de acesso ao banco de dados.
 
-4️⃣ Compilar e Executar
+**4️⃣ Compilar e Executar**
 Você pode executar o projeto diretamente pela sua IDE ou utilizar o build.xml com o Ant.
 
-📌 Funcionalidades
+---
+
+## 📌 Funcionalidades
 
 Cadastro de itens
 Cadastro de usuários
@@ -65,17 +75,16 @@ Controle de empréstimos e devoluções de itens
 Consulta de histórico de empréstimos e devoluções
 Relatórios de itens emprestados e devolvidos
 Sistema de login e registro de usuários
-📊 Melhorias Futuras
+
+---
+
+## 📊 Melhorias Futuras
 
 Autenticação com níveis de acesso (admin/professor/aluno)
 Exportação de relatórios em PDF ou CSV
 Integração com APIs externas (ex: envio de notificações por e-mail)
-Melhorias na interface gráfica com padrões modernos
-🧪 Testando o Sistema O sistema pode ser testado diretamente via interface gráfica, sem necessidade de ferramentas externas.
 
-📌 Contribuição Sinta-se à vontade para abrir Issues e Pull Requests para melhorias! 😄
-
-📜 Licença Este projeto é de uso livre para fins educacionais.
+---
 
 🚀 Desenvolvido por b3nard0p
 
