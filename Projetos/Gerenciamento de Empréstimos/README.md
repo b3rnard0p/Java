@@ -3,7 +3,6 @@
 ## 📌 Sobre o Projeto
 Este projeto é um sistema desktop de gerenciamento de itens para instituições de ensino, como universidades e escolas. Ele permite o controle de empréstimos e devoluções de itens essenciais, tais como ar-condicionado, chaves de sala e canetões. O sistema possui uma interface gráfica amigável feita com Java Swing e realiza operações em um banco de dados MySQL.
 
----
 
 ## 🚀 Tecnologias Utilizadas
 - Java 22
@@ -11,8 +10,6 @@ Este projeto é um sistema desktop de gerenciamento de itens para instituições
 - MySQL
 - JDBC (MySQL Connector)
 - Apache Ant (opcional)
-
----
 
 ## 📂 Estrutura do Projeto
 
@@ -44,7 +41,6 @@ SistemaControleItens/
 │── manifest.mf
 │── mysql-connector-j-8.1.0.jar
 ```
----
 
 ## 🔧 Configuração e Instalação
 
@@ -63,8 +59,6 @@ SistemaControleItens/
 **4️⃣ Compilar e Executar**
 - Você pode executar o projeto diretamente pela sua IDE ou utilizar o build.xml com o Ant.
 
----
-
 ## 📌 Funcionalidades
 
 - Cadastro de itens
@@ -74,8 +68,6 @@ SistemaControleItens/
 - Relatórios de itens emprestados e devolvidos
 - Sistema de login e registro de usuários
 
----
-
 ## 📊 Melhorias Futuras
 
 - Autenticação com níveis de acesso (admin/professor/aluno)
@@ -84,4 +76,4 @@ SistemaControleItens/
 
 ---
 
-🚀 Desenvolvido por b3nard0p
+**🚀 Desenvolvido por b3nard0p**
