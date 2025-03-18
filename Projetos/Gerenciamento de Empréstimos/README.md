@@ -50,41 +50,39 @@ SistemaControleItens/
 
 ## 🔧 Configuração e Instalação
 
-**1️⃣ Clonar o repositório**  
-git clone https://github.com/seu-usuario/SistemaControleItens.git  
-cd SistemaControleItens
+**1️⃣ Baixar o conector**  
+- Entre no projeto e instale o connector
 
 **2️⃣ Configurar o MySQL Connector**
-O arquivo mysql-connector-j-8.1.0.jar já está incluído na pasta do projeto.
-Na sua IDE (ex: NetBeans):
-Clique com o botão direito em Libraries.
-Selecione Add JAR/Folder e adicione o mysql-connector-j-8.1.0.jar.
+- Na sua IDE (ex: NetBeans):
+- Clique com o botão direito em Libraries.
+- Selecione Add JAR/Folder e adicione o mysql-connector-j-8.1.0.jar.
 
 **3️⃣ Configurar o Banco de Dados**
-Crie um banco de dados no MySQL com as tabelas necessárias, como Emprestimos, Usuarios, Itens e Historico.
-No arquivo src/conexao/Conexao.java, configure as credenciais de acesso ao banco de dados.
+- Crie um banco de dados no MySQL com as tabelas necessárias, como Emprestimos, Usuarios, Itens e Historico.
+- No arquivo src/conexao/Conexao.java, configure as credenciais de acesso ao banco de dados.
 
 **4️⃣ Compilar e Executar**
-Você pode executar o projeto diretamente pela sua IDE ou utilizar o build.xml com o Ant.
+- Você pode executar o projeto diretamente pela sua IDE ou utilizar o build.xml com o Ant.
 
 ---
 
 ## 📌 Funcionalidades
 
-Cadastro de itens
-Cadastro de usuários
-Controle de empréstimos e devoluções de itens
-Consulta de histórico de empréstimos e devoluções
-Relatórios de itens emprestados e devolvidos
-Sistema de login e registro de usuários
+- Cadastro de itens
+- Cadastro de usuários
+- Controle de empréstimos e devoluções de itens
+- Consulta de histórico de empréstimos e devoluções
+- Relatórios de itens emprestados e devolvidos
+- Sistema de login e registro de usuários
 
 ---
 
 ## 📊 Melhorias Futuras
 
-Autenticação com níveis de acesso (admin/professor/aluno)
-Exportação de relatórios em PDF ou CSV
-Integração com APIs externas (ex: envio de notificações por e-mail)
+- Autenticação com níveis de acesso (admin/professor/aluno)
+- Exportação de relatórios em PDF ou CSV
+- Integração com APIs externas (ex: envio de notificações por e-mail)
 
 ---
 
