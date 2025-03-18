@@ -9,7 +9,6 @@ Este projeto é um sistema desktop de gerenciamento de itens para instituições
 - Java Swing
 - MySQL
 - JDBC (MySQL Connector)
-- Apache Ant (opcional)
 
 ## 📂 Estrutura do Projeto
 
@@ -66,7 +65,6 @@ SistemaControleItens/
 - Controle de empréstimos e devoluções de itens
 - Consulta de histórico de empréstimos e devoluções
 - Relatórios de itens emprestados e devolvidos
-- Sistema de login e registro de usuários
 
 ## 📊 Melhorias Futuras
 
