@@ -17,6 +17,8 @@ Este projeto é um sistema desktop de gerenciamento de itens para instituições
 ---
 
 ## 📂 Estrutura do Projeto
+
+```bash
 SistemaControleItens/
 │── src/
 │   ├── DAO/
@@ -43,7 +45,7 @@ SistemaControleItens/
 │── build.xml
 │── manifest.mf
 │── mysql-connector-j-8.1.0.jar
-
+```
 ---
 
 ## 🔧 Configuração e Instalação
@@ -87,10 +89,3 @@ Integração com APIs externas (ex: envio de notificações por e-mail)
 ---
 
 🚀 Desenvolvido por b3nard0p
-
-
-
-
-
-
-
