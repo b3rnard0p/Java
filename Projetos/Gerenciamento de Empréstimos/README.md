@@ -1,7 +1,5 @@
 # 🛠️ Sistema de Controle de Itens para Universidades e Escolas com **Java Swing**
 
----
-
 ## 📌 Sobre o Projeto
 Este projeto é um sistema desktop de gerenciamento de itens para instituições de ensino, como universidades e escolas. Ele permite o controle de empréstimos e devoluções de itens essenciais, tais como ar-condicionado, chaves de sala e canetões. O sistema possui uma interface gráfica amigável feita com Java Swing e realiza operações em um banco de dados MySQL.
 
