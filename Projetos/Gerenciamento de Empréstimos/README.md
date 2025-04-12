@@ -74,4 +74,4 @@ SistemaControleItens/
 
 ---
 
-**🚀 Desenvolvido por b3nard0p**
+**🚀 Desenvolvido por Bernardo Paz, João Vitor Ritter, Marcelo Moro, Matheus Sansonowicz, Pedro Pires & Wendel Nunes**
